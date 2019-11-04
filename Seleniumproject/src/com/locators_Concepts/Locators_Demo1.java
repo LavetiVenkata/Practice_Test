@@ -28,7 +28,11 @@ public class Locators_Demo1 {
 		
 		Thread.sleep(2000);
 		driver.close();
+		
+		System.out.println("Hello");
 
+		
+		
 	}
 
 }
